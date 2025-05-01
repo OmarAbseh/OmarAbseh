@@ -16,7 +16,7 @@ I'm passionate about building secure and scalable cloud infrastructures, integra
 ## 📘 Projects
 
 - **CloudNova**: AI-powered threat detection system for cloud environments.
-- **VPC Lab**: Comprehensive AWS VPC setup demonstrating networking and security configurations.
+- **CloudSystem**: Comprehensive AWS VPC setup demonstrating networking and security configurations.
 
 ## 📫 Connect with Me
 
