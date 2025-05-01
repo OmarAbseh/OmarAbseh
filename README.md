@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Omar Abseh
 
-<!--
-**OmarAbseh/OmarAbseh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Cloud & DevSecOps Engineer | 🛡️ Cybersecurity Enthusiast | 🧠 AI Innovator
 
-Here are some ideas to get you started:
+I'm passionate about building secure and scalable cloud infrastructures, integrating AI solutions, and continuously learning in the ever-evolving tech landscape.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Cloud Platforms**: AWS (VPC, EC2, S3, IAM)
+- **DevOps Tools**: Docker, Kubernetes, Terraform
+- **Programming**: Python, Bash
+- **Security**: Network Security, IAM Policies, Compliance
+- **AI/ML**: scikit-learn, TensorFlow
+- **Others**: Git, CI/CD Pipelines, Linux
+
+## 📘 Projects
+
+- **CloudNova**: AI-powered threat detection system for cloud environments.
+- **VPC Lab**: Comprehensive AWS VPC setup demonstrating networking and security configurations.
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/omarabseh/)
+- [Email](mailto:omar_absah@icloud.com)
